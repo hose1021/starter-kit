@@ -1,6 +1,6 @@
 ## Quickstart
 
-Download project. Then in console run `npm i` for install dependencies. Then use `npm run watch` for rn compiler.
+Download project. Then in console run `npm i` for install dependencies. Then use `npm run watch` for run compiler.
 
 Work structure:
 
