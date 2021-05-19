@@ -7,7 +7,12 @@ mix
         require("tailwindcss"),
         require('autoprefixer'),
     ])
+    .browserSync({
+        server: './public/',
+        files: ['./**/*.html'],
+    });  
 
+  
 mix.disableNotifications();
 
 if (mix.inProduction()) {

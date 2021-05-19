@@ -10,6 +10,8 @@
     "production": "mix --production"
   },
   "devDependencies": {
+    "browser-sync": "^2.26.14",
+    "browser-sync-webpack-plugin": "^2.3.0",
     "laravel-mix": "^6.0.6",
     "postcss": "^8.1",
     "postcss-import": "^14.0.0"
